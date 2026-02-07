@@ -27,8 +27,3 @@ pip install -r requirements.txt
 
 3. Run the Project To execute the full pipeline, run the main script:
 
-Bash
-python main.py
-# Sleep-deprived-predictor
-# Sleep-deprived-predictor
-# Sleep-Deprivation-Predictor
