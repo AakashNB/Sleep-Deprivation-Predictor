@@ -1,7 +1,7 @@
-Sleep Deprivation Predictor
-A beginner-friendly machine learning project that predicts if a person is sleep deprived (less than 6 hours of sleep) based on lifestyle factors like stress, physical activity, and age.
+Sleep Deprivation Predictor is a machine learning project that predicts if a person is sleep deprived (like less than 6 hours of sleep) based on lifestyle factors like stress, physical activity, and age.
 
-Project Structure
+Project Structure:
+
 data_analysis.py: Loads the raw dataset, inspects columns/types, and handles missing values.
 
 feature_engineering.py: Creates the target label (Sleep_Deprived) and selects relevant numeric features for training.
